@@ -4,3 +4,4 @@ Basically it takes input as a string and does the following operations:
 - Upper Case
 - Remove New Line
 - Remove Extra Sapce
+- Character Count
