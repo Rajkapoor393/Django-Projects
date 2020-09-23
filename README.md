@@ -12,3 +12,8 @@ It is a simple django project or website in which we can Analyze text.
 3. New Line Remove
 4. Extra Space Remover
 5. Character count
+
+## Requirements
+
+python3
+django
