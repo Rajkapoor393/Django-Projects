@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="3a3055b0-6a19-49d0-bbbc-d4a0562d6141" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="f8bbc71b-aad4-4e6e-823e-ccd6e116dd7c" name="Default Changelist" comment="" />
+>>>>>>> b2162cd3ed18b56804bff524d0c2cd4c07457568
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,15 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectId" id="1n5Hx4FM88mMi1Mfwql1uRlOTD9" />
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hoDEewKmeChyp10oJOCJYklvRE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+>>>>>>> b2162cd3ed18b56804bff524d0c2cd4c07457568
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,22 +36,34 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../DjangoCourse" />
+=======
+>>>>>>> b2162cd3ed18b56804bff524d0c2cd4c07457568
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="3a3055b0-6a19-49d0-bbbc-d4a0562d6141" name="Default Changelist" comment="" />
       <created>1610673274910</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610673274910</updated>
+=======
+      <changelist id="f8bbc71b-aad4-4e6e-823e-ccd6e116dd7c" name="Default Changelist" comment="" />
+      <created>1600668440203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600668440203</updated>
+>>>>>>> b2162cd3ed18b56804bff524d0c2cd4c07457568
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1611157645650">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -48,5 +72,23 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="378" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1611157613820" />
+=======
+    <state x="676" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600674932597">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="676" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1600674932597" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1600842530978">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600842530978" />
+    <state x="613" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1600836305080">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="613" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1600836305080" />
+    <state x="581" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1600767909931">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="581" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1600767909931" />
+>>>>>>> b2162cd3ed18b56804bff524d0c2cd4c07457568
   </component>
 </project>

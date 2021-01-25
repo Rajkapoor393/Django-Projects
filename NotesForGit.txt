@@ -1,0 +1,18 @@
+$ git remote -v  shows name
+$ git remote remove shows name
+$ git remote add github link
+$ git pull github master
+If shows : 
+fatal: refusing to merge unrelated histories
+then:
+$ git pull github master --allow-unrelated-histories
+$ git status
+now make the changes in your folder
+$ git add .
+$ git status
+shows the changes made by you
+$ git commit -m "what changes made"
+$ git push -u github master
+Done
+# for creating requirements.txt
+$ pip freeze > requirements.txt 
