@@ -14,3 +14,5 @@ shows the changes made by you
 $ git commit -m "what changes made"
 $ git push -u github master
 Done
+# for creating requirements.txt
+$ pip freeze > requirements.txt 
